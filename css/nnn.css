@@ -1,0 +1,31 @@
+<div id="content">
+                 <p>
+
+                 #right{
+                     width: 220px;
+                     min-height: 600px;
+                     border: 1px solid #CDCDCD;
+                     float:right;
+                     margin-bottom: 5px;
+                 }
+.jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/jumbotron.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Nguồn:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Được bạn: Thanh đưa lên
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             vào ngày: 27 tháng 12 năm 2003
+margin-right: 5px;
+
+
+header nav {
+    display: flex;
+    justify-content: flex-end;
+
+
+</p>

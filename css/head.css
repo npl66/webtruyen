@@ -1,0 +1,11 @@
+#head-link{
+    width: 1200px;
+    height: 30px;
+    line-height: 30px;
+    padding-left: 20px;
+    padding-right: 30px;
+    border: 1px solid #CDCDCD;
+    background-color: brown;
+    margin-bottom:5px;
+    clear: both;
+}

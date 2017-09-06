@@ -1,0 +1,10 @@
+#head{
+    width: 1200px;
+    height: 100px;
+    background-color: green;
+    border: 1px solid #CDCDCD;
+    margin-bottom:5px;
+    font-style: oblique;
+    font-size: large;
+    text-align: center;
+}
